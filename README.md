@@ -97,15 +97,6 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  /></code>
 </div>
 
-
-## My Journey
-<div>
-
-  <img width="400px" alt="webcog-pk's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/pyzit?cardType=level&theme=onedark&preferLogin=false" />
-  <img width="400px" src="https://github-readme-activity-graph.vercel.app/graph?username=pyzit&theme=github" />
-  
-</div>
-
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/webcog-pk/webcog-pk/output/github-contribution-grid-snake-dark.svg)
 
