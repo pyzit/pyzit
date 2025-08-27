@@ -97,8 +97,5 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  /></code>
 </div>
 
-## Feeding...
-![Snake animation](https://raw.githubusercontent.com/webcog-pk/webcog-pk/output/github-contribution-grid-snake-dark.svg)
-
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
