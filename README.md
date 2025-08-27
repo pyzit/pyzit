@@ -15,18 +15,6 @@
 - 💬 Ask me about `Frontend` or `Backend`
 - ⚡ Fun fact I think I am Robot🤖 who Love Coding 20/7
 
-<img align="right" src="https://github.com/webcog-pk/webcog-pk/blob/main/_dp_webcog.png">
-
-## My stack:
-- 3+ years of experience in Python , Django and React
-- 1+ years of experience in Kubernetes
-- 1+ years of experience in Cpp
-- 🏆 Chat bots (Telegram, Twitter, Facebook Messenger)
-- ❤️ API, RESTful API, GraphQL
-- HTML/CSS, Javascript
-- git, docker, CI/CD
-- SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
-- LocalStorage, SessionStorage, JWT
 
 ## Languages and Tools:
 <div align="left">
