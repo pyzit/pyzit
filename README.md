@@ -1,13 +1,5 @@
-<h1 align="center">Hi, I'm Wajahat Murtaza 👋 </h1>
+![Wajahat Murtaza's Github Banner](https://github.com/pyzit/pyzit/blob/main/banner.png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=webcog-pk.webcog-pk&left_color=royalblue&right_color=black"  />
-<h3 align="center">Aspiring Full Stack Developer from Pakistan </h3>
-
-❤️ I prefer Next JS on frontend and Django with PostgreSQL and/or MongoDB and/or MySQL on backend
-🤔 I'm currently working on Kubernetes with edge computing.
-
-✨ I study: Python, React, Next , Django ...
-
-
 
 ## About me:
 - 🔭 I’m looking to collaborate on commercial projects and startups
@@ -66,8 +58,6 @@
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  /></code>
   <img width="12" />
-  <code><img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  /></code>
-  <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  /></code>
@@ -75,8 +65,6 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  /></code>
-  <!--   <img width="12" /> -->
-  <!-- <code><img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  /></code> -->
   <img width="12" />
   <code><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  /></code>
   <img width="12" />
